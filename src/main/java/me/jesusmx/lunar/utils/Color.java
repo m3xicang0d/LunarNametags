@@ -2,8 +2,8 @@ package me.jesusmx.lunar.utils;
 
 import org.bukkit.ChatColor;
 
-import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class Color {
     
@@ -12,12 +12,6 @@ public class Color {
     }
 
     public static List<String> translate(List<String> lines) {
-        List<String> toReturn = new ArrayList<String>();
-        for (String line : lines) {
-            toReturn.add(ChatColor.translateAlternateColorCodes('&', line));
-        }
-        return toReturn;
+        return lines.stream().map(Color::translate).collect(Collectors.toList());
     }
-
-
 }
