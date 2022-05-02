@@ -10,7 +10,12 @@ This util can be used by various idiots who don't know how to make simple nameta
 
 • Infinite nametags
 
-![image](https://user-images.githubusercontent.com/64879531/166185244-3940634c-0e5d-43af-aeed-4988d19ea006.png)
+![image](https://user-images.githubusercontent.com/64879531/166260412-faa850ab-6d32-4112-8a62-d1852bb46511.png)
+
+
+
+# Credits
+Scifi#1321 code optimization
 
 
 # Selling & Using
