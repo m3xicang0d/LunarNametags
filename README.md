@@ -3,8 +3,11 @@
 This util can be used by various idiots who don't know how to make simple nametags and need to steal the entire "xHub" class.
 
 • Easy to use
+
 • Customizable permissions
+
 • Special to add to hubcores or some other plugin!
+
 • Infinite nametags
 
 
